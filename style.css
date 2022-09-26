@@ -73,4 +73,5 @@ html, body {
     left: 35%;
     transform: translate(-50%, -50%);
     color: grey;
+    text-shadow: 2px 2px 4px #3c2727
 }
